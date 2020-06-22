@@ -1,0 +1,21 @@
+.navbar {
+  background-color: cornflowerblue;
+  width: 300px;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+}
+.navbar ul li{
+  margin-bottom: 10px;
+}
+.navbar ul li a{
+  margin-bottom: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+.item a{
+  color: #fff
+}

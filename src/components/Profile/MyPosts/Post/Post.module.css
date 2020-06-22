@@ -1,0 +1,32 @@
+.post {
+    margin: 10px 0;
+    padding: 20px 10px;
+    background-color: #fff;
+    display: flex;
+}
+.post .ava {
+    width: 200px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post .ava img {
+    width: 80%;
+}
+
+.post_text {
+    padding-bottom: 5px;;
+}
+.post .post_like_block {
+    border-top: 1px solid #ccc;
+    padding-top: 5px;
+}
+.post .post_like_block span {
+    text-decoration: underline;
+    font-size: 13px;;
+    color: #777;
+    cursor: pointer;
+}
